@@ -1,34 +1,4 @@
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
-//aaa
+
 <?php
 
 echo "Calculator Application";
