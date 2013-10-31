@@ -1,4 +1,3 @@
-//aa
 <?php
 
 echo "Calculator Application";
