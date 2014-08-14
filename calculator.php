@@ -3,7 +3,6 @@
 echo "Calculator Application";
 
 ?>
-//change should be visible
 <br>
 
 The sume of two numbers <?php echo $_GET["num1"]; ?> and <?php echo $_GET["num2"]; ?> is <br>
